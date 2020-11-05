@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: vincentmuriuki42@gmail.com
 - ⚡ Fun fact: A pro tabe tennis player
 -->
-- 🔭 I’m currently working on Job Board API
+- 🔭 I’m currently working on a Job Board
 - 🌱 I’m currently learning Material UI
-- 💬 Ask me about React and NodeJS
+- 💬 Ask me about React, NodeJS, Spring Boot, Kotlin
 - 📫 How to reach me: vincentmuriuki42@gmail.com
 - ⚡ Fun fact: A pro tabe tennis player
 
