@@ -5,22 +5,16 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on a Job Board platform.
+- 🌱 I’m currently learning Material UI
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about React and NodeJS
+- 📫 How to reach me: vincentmuriuki42@gmail.com
+- ⚡ Fun fact: A pro tabe tennis player
 -->
+- 🔭 I’m currently working on Job Board API
+- 🌱 I’m currently learning Material UI
+- 💬 Ask me about React and NodeJS
+- 📫 How to reach me: vincentmuriuki42@gmail.com
+- ⚡ Fun fact: A pro tabe tennis player
 
-<p align="center">
-	<a href="https://github.com/vincentmuriuki"><img src="https://img.shields.io/github/followers/vincentmuriuki.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/vinnyMURIUKI"><img src="https://img.shields.io/twitter/follow/vinnyMURIUKI?label=Twitter&style=social" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/in/terrytangyuan"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	<a href="https://github.com/sponsors/terrytangyuan"><img src="https://img.shields.io/badge/Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="Sponsors"></a>
-	<a href="https://scholar.google.com/citations?user=2GYttqUAAAAJ&hl=en"><img src="https://img.shields.io/badge/Scholar-1.2k-_.svg?style=social&logo=google-scholar" alt="Scholars"></a>
-	<a href="https://www.zhihu.com/people/terrytangyuan"><img src="https://img.shields.io/badge/知乎--_.svg?style=social&logo=zhihu" alt="知乎"></a>
-	<a href="https://weibo.com/5681818134"><img src="https://img.shields.io/badge/微博--_.svg?style=social&logo=sina-weibo" alt="微博"></a>
-</p>
