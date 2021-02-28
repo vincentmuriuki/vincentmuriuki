@@ -5,10 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a Job Board platform.
+- 🔭 I’m currently working on a Job Board platform & Ride API.
 - 🌱 I’m currently learning Material UI
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about React and NodeJS
+- 💬 Ask me about React and NodeJS, Koajs (Js and Ts)
 - 📫 How to reach me: vincentmuriuki42@gmail.com
 - ⚡ Fun fact: A pro tabe tennis player
 -->
