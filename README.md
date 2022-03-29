@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: vincentmuriuki42@gmail.com
 - ⚡ Fun fact: A pro tabe tennis player
 -->
-- 🌱 I’m currently learning Flutter
 - 💬 Ask me about React, NodeJS, Spring Boot, Kotlin
 - 📫 How to reach me: [email](mailto:vincentmuriuki42@gmail.com)
 
