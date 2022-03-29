@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: vincentmuriuki42@gmail.com
 - ⚡ Fun fact: A pro tabe tennis player
 -->
-- 💬 Ask me about React, NodeJS, Spring Boot, Kotlin
+- 💬 Ask me about React, NodeJS, Typescript
 - 📫 How to reach me: [email](mailto:vincentmuriuki42@gmail.com)
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=vincentmuriuki&show_icons=true" alt="vincentmuriuki" /></p>
