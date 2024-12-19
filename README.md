@@ -28,6 +28,6 @@ I'm a passionate developer with a keen interest in web development, backend syst
 ## 📫 Contact Me
 
 - LinkedIn: [Vincent Muriuki](https://www.linkedin.com/in/vincentmuriuki/)
-- Email: [vincentmuriuki@example.com](mailto:vincentmuriuki@example.com)
+- Email: [vincentmuriuki@example.com](mailto:vincentmuriuki42@gmail.com)
 
 Feel free to connect with me or check out my repositories!
